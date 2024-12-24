@@ -6,7 +6,7 @@ name | year | authors | link
 |---|---|---|---
 PokerGPT: An End-to-End Lightweight Solver for Multi-Player Texas Hold'em via Large Language Model | 2024 | Chenghao Huang, Yanbo Cao, Yinlong Wen, Tao Zhou, Yanru Zhang | [arXiv](https://arxiv.org/abs/2401.06781)
 Optimal Policy of Multiplayer Poker via Actor-Critic Reinforcement Learning | 2022 | Yifan Yang, Zhen Wang, Zhihao Jia, Yizhou Wang | [MDPI](https://www.mdpi.com/1099-4300/24/6/774)
-Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning | 2022 | Félix Berthier, Marc Lanctot, Edward Hughes, et al. | [Nature](https://www.nature.com/articles/s41586-022-05172-6)
+Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning | 2022 | Félix Berthier, Marc Lanctot, Edward Hughes, et al. | [arXiv](https://arxiv.org/abs/2206.15378)
 World-Class Interpretable Poker | 2022 | Ryan D'Orazio, Scott A. W. Brown, Cody Buntain, Jonathan P. How | [Springer](https://link.springer.com/article/10.1007/s10994-022-06179-8)
 ScrofaZero: Mastering Trick-taking Poker Game Gongzhu by Deep Reinforcement Learning | 2021 | Naichen Shi, Ruichen Li, Sun Youran | [arXiv](https://arxiv.org/abs/2102.07495)
 Combining Deep Reinforcement Learning and Search for Imperfect-Information Games | 2020 | Noam Brown, Anton Bakhtin, Adam Lerer, Qucheng Gong | [arXiv](https://arxiv.org/abs/2007.13544)
