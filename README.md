@@ -1,4 +1,4 @@
-# poker research list
+# poker papers
 
 a list of research papers attempting to make computers better at poker, because i couldn't find a good list online.
 
